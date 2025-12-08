@@ -1,0 +1,13 @@
+*.log
+.vscode/
+.idea/
+*.swp
+*.swo
+node_modules/
+vendor/
+.env
+config/secrets.yml
+*.pem
+*.key
+.DS_Store
+Thumbs.db
